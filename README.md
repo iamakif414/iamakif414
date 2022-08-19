@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamakif414
-- 👀 I’m interested in programming
+- 👀 I’m interested in create AI based Application 
 - 🌱 I’m currently learning on Flutter App Development
 - 💞️ I’m looking to collaborate on App Development
 - 📫 How to reach me (Through my email(fineakif485@gmail.com)) Thank You😀✌️
